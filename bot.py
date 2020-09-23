@@ -30,5 +30,5 @@ while 1 == 1:
     origin.push()
     print('100% done')
     print('code updated {} times'.format(num))
-    num+=2
+    num+=1
 
